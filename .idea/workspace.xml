@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1396768f-6b4a-44c2-a09e-54a2d1d870d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38YrDKO0m7Y6DDGiSC9BMYYRJwX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnagramChecker.executor": "Run",
+    "Application.ArrayIndexOutOfBoundsExceptionDemo.executor": "Run",
+    "Application.BMICalculator.executor": "Run",
+    "Application.CharacterArrayValidator.executor": "Run",
+    "Application.CharacterFrequencyFinder.executor": "Run",
+    "Application.CharacterFrequencyUsingNestedLoops.executor": "Run",
+    "Application.CharacterTypeAnalyzer.executor": "Run",
+    "Application.ChocolateDistribution.executor": "Run",
+    "Application.CollinearPointsChecker.executor": "Run",
+    "Application.FactorFinder.executor": "Run",
+    "Application.FactorStatisticsCalculator.executor": "Run",
+    "Application.FirstNonRepeatingCharacterFinder.executor": "Run",
+    "Application.FootballTeamHeightAnalyzer.executor": "Run",
+    "Application.FriendAnalyzer.executor": "Run",
+    "Application.HandshakeCalculator.executor": "Run",
+    "Application.IllegalArgumentExceptionDemo.executor": "Run",
+    "Application.LeapYearChecker.executor": "Run",
+    "Application.LineAndDistanceCalculator.executor": "Run",
+    "Application.LowerCaseConversionValidator.executor": "Run",
+    "Application.MatrixOperations.executor": "Run",
+    "Application.MaximumHandshakesCalculator.executor": "Run",
+    "Application.MonthlyCalendar.executor": "Run",
+    "Application.MonthlyCalendarPrinter.executor": "Run",
+    "Application.NullPointExceptionDemo.executor": "Run",
+    "Application.NumberAnalyzerWithMethods.executor": "Run",
+    "Application.NumberFormatExceptionDemo.executor": "Run",
+    "Application.NumberSignChecker.executor": "Run",
+    "Application.OTPGenerator.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.Quadratic.executor": "Run",
+    "Application.RandomNumberStatistics.executor": "Run",
+    "Application.RemainderAndQuotientCalculator.executor": "Run",
+    "Application.RockPaperStatistics.executor": "Run",
+    "Application.ShortestAndLongestWordFinder.executor": "Run",
+    "Application.SimpleIntrestCalculator.executor": "Run",
+    "Application.SmallestAndLargestFinder.executor": "Run",
+    "Application.SpringSeason.executor": "Run",
+    "Application.StringComparisionValidator.executor": "Run",
+    "Application.StringIndexOutOfBoundsExceptionDemo.executor": "Run",
+    "Application.StringLengthCalculator.executor": "Run",
+    "Application.StringTrimValidator.executor": "Run",
+    "Application.StudentScorecardGenerator.executor": "Run",
+    "Application.StudentVoteChecker.executor": "Run",
+    "Application.StudentVotingEligibilityChecker.executor": "Run",
+    "Application.SubstringComparisonValidator.executor": "Run",
+    "Application.SumOfNaturalNumbers.executor": "Run",
+    "Application.SumOfNaturalNumbersComparison.executor": "Run",
+    "Application.TeamBMICalculator2D.executor": "Run",
+    "Application.TriangularParkRunCalculator.executor": "Run",
+    "Application.TrigonometricCalculator.executor": "Run",
+    "Application.UniqueCharacterFinder.executor": "Run",
+    "Application.UniqueCharacterFrequencyFinder.executor": "Run",
+    "Application.UpperCaseConversionValidator.executor": "Run",
+    "Application.VowelConsonantCounter.executor": "Run",
+    "Application.WindChillCalculator.executor": "Run",
+    "Application.WordLengthTableGenerator.executor": "Run",
+    "Application.WordSplitValidator.executor": "Run",
+    "Application.ZaraBonusCalculator.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/CoreProgramming",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Training/BridgeLabz/BridgeLabz-Java",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1396768f-6b4a-44c2-a09e-54a2d1d870d5" name="Changes" comment="" />
+      <created>1768987224610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768987224610</updated>
+      <workItem from="1768987225737" duration="847000" />
+      <workItem from="1768988145368" duration="855000" />
+      <workItem from="1768990347834" duration="5415000" />
+      <workItem from="1769058002231" duration="8505000" />
+      <workItem from="1769075748641" duration="4150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
