@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BridgeLabz-Java.iml" filepath="$PROJECT_DIR$/.idea/BridgeLabz-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlflows/controlflows.iml" filepath="$PROJECT_DIR$/controlflows/controlflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/programmingelements/programmingelements.iml" filepath="$PROJECT_DIR$/programmingelements/programmingelements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
     </modules>
   </component>
 </project>
