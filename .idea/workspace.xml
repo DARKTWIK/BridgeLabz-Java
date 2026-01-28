@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a52ed0-3eb9-4c00-b5d4-e2aee4b64fcf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BridgeLabz-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BridgeLabz-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="38e35psmSE9vwfbW3khBLfEws7U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnagramChecker.executor": "Run",
+    "Application.BasicCalculator.executor": "Run",
+    "Application.DateArithmatic.executor": "Run",
+    "Application.DateComparison.executor": "Run",
+    "Application.DateFormattingExample.executor": "Run",
+    "Application.FactorialUsingRecursion.executor": "Run",
+    "Application.FibonacciGenerator.executor": "Run",
+    "Application.GcdLcmCalculator.executor": "Run",
+    "Application.LexicographicalStringComparator.executor": "Run",
+    "Application.LongestWordFinder.executor": "Run",
+    "Application.MaximumOfThreeNumbers.executor": "Run",
+    "Application.MostFrequentCharacterFinder.executor": "Run",
+    "Application.NumberGuessingGame.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.PrimeNumberChecker.executor": "Run",
+    "Application.RemoveDuplicateCharacters.executor": "Run",
+    "Application.RemoveSpecificCharacter.executor": "Run",
+    "Application.StringReverser.executor": "Run",
+    "Application.SubstringOccurenceCounter.executor": "Run",
+    "Application.TemperatureConverter.executor": "Run",
+    "Application.TimeZoneDisplay.executor": "Run",
+    "Application.ToggleCaseConverter.executor": "Run",
+    "Application.VowelConsonantCounter.executor": "Run",
+    "Application.WordReplacer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "feature/core-programming",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a52ed0-3eb9-4c00-b5d4-e2aee4b64fcf" name="Changes" comment="" />
+      <created>1769146030229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769146030229</updated>
+      <workItem from="1769146032081" duration="4067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
